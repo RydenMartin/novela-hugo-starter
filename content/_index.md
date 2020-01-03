@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: Novela, the simplest way to start publishing with Hugo and Forestry.
+  heading: Martin Rydén. Here I write about my journey!
   maxWidthPX: "652"
 draft: true
 
